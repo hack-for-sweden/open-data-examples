@@ -19,5 +19,7 @@ Wikidata provides machine readable data from the Wikipedia project, licenced und
 - [wikidata-org.ipynb](wikidata-org.ipynb) - added by [salgo60](https://github.com/salgo60) along with this [video](https://youtu.be/HrfQioXjGZE)
 
 ## Försäkringskassan - Get statistics
-With his API you get statics, for more details [read this](https://oppnadata.se/datamangd/#esc_entry=4778&esc_context=547).
+From this API you get summarizing statistics of the registered stress related diseases that Försäkringskassan is compensating. The information is described on a county and municipality level on a quarterly basis.
+
+For more details, see the [reference documentation](https://oppnadata.se/datamangd/#esc_entry=4778&esc_context=547).
 - [Forsakringskassan.ipynb](Forsakringskassan.ipynb) - added by [@salgo60](https://github.com/salgo60)
