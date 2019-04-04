@@ -3,4 +3,4 @@ channels:
 dependencies:
   - pandas
   - pip:
-      sparqlwrapper
+      - sparqlwrapper
