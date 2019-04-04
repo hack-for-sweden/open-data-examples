@@ -24,3 +24,7 @@ As Wiki is an internatinal project in +300 languages and has a lot of articles, 
     * All [Swedish politicians in the Swedish Goverment](http://tinyurl.com/y4jo4lva)
         * just those with a [twitter account](http://tinyurl.com/y4qb32q9)
 * In may started also the [Lexicographical data project](https://www.wikidata.org/wiki/Wikidata:Lexicographical_data/en) with the goal to "describe precisely all words in all languages" in a machinereadable form
+
+## Försäkringskassan - Get statistics
+With his API you get statics, for more details [read this](https://oppnadata.se/datamangd/#esc_entry=4778&esc_context=547).
+- [Forsakringskassan.ipynb](Forsakringskassan.ipynb) - added by [@salgo60](https://github.com/salgo60)
