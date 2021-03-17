@@ -2,16 +2,16 @@
 
 These Jupyter Notebooks contains examples on how to access open data through APIs. It was made for Hack for Sweden 2019.
 
-If you want to work with the examples during the hack, I recommend using https://jupyter.se where you login with a Google account and get started with the README. You can also run these examples on mybinder.org, but inactivity will shut you down and work wont be saved.
+By clicking the mybinder.org button below, you will arrive at a Jupyter environment where you can trial the examples in a temporary work environment.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hack-for-sweden/open-data-examples/master?urlpath=%2Flab)
 
 # Examples
 
 ## Polisen.se - Get police events
-With this API you can get events based on _when_, _where_ and _what_, for more details [read this](https://polisen.se/om-polisen/om-webbplatsen/oppna-data/api-over-polisens-handelser/).
+With this API you can get information about events based on _when_, _where_ and _what_, for more details see [info about polisen.se's APIs](https://polisen.se/kontakt/om-webbplatsen/oppna-data/).
 
-- [polisen-se.ipynb](polisen-se.ipynb) - added by [@salgo60](https://github.com/salgo60)
+- [polisen-se.ipynb](polisen-se.ipynb) - added by [@salgo60](https://github.com/salgo60), updated by [@consideratio](https://github.com/consideratio) 2021-03
 
 ## Wikidata.org - Get info from the Wikipedia project
 Wikidata provides machine readable data from the Wikipedia project, licenced under a Creative Commons "No rights reserved" licence called [CC-0](https://creativecommons.org/share-your-work/public-domain/cc0/).
